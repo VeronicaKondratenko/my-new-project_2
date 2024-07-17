@@ -1,2 +1,0 @@
-unitest==1.4.34
-termcolor==2.4.0
